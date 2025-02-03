@@ -1,7 +1,9 @@
-## Pretty much stolen from [Sims](https://github.com/suchmememanyskill) but I did a tiny change so if you want, donate to them! Here the links to the original TegraExplorer and where you can donate to Sims are below.
+### Pretty much stolen from [Sims](https://github.com/suchmememanyskill) but I did a tiny change so if you want, donate to them! Here the links to the original TegraExplorer and where you can donate to Sims are below.
 [https://github.com/suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)
 
 [![Donations](https://img.shields.io/badge/Support%20on-Ko--Fi-red)](https://ko-fi.com/suchmememanyskill)
+
+
 
 # TegraExplorer
 
