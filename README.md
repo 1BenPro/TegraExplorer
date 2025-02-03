@@ -3,7 +3,11 @@
 [![TegraExplorer builder](https://github.com/suchmememanyskill/TegraExplorer/workflows/TegraExplorer%20builder/badge.svg)](https://github.com/1BenPro/TegraExplorer/actions)
 [![Downloads](https://img.shields.io/github/downloads/suchmememanyskill/TegraExplorer/total)](https://github.com/1BenPro/TegraExplorer/releases)
 [![Version](https://img.shields.io/github/v/release/suchmememanyskill/tegraexplorer)](https://github.com/1BenPro/TegraExplorer/releases)
+
+# Pretty much stolen from [Sims](https://github.com/suchmememanyskill) but I did a tiny change so if you want, donate to them! Here the links to the original TegraExplorer and where you can donate to Sims are below.
+[https://github.com/suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)
 [![Donations](https://img.shields.io/badge/Support%20on-Ko--Fi-red)](https://ko-fi.com/suchmememanyskill)
+
 
 A payload-based file explorer for your switch!
 
